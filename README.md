@@ -139,10 +139,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChikhaliyaYash&hide=jupyter%20notebook&hide_title=true)](https://github.com/ChikhaliyaYash/github-readme-stats)
 
-
-## All Languages So Far
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChikhaliyaYash&hide_title=true)](https://github.com/ChikhaliyaYash/github-readme-stats)
-<br></br>
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/ChikhaliyaYash"><img alt="Priyesh Chikhaliya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ChikhaliyaYash&custom_title=Yash%20Chikhaliya's%20Contribution%20Graph&theme=react-dark" /></a>
