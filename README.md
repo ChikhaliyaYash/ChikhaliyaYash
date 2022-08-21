@@ -33,10 +33,10 @@
 ## 👀 My Competitive Programming Profiles
 
 <p align="center" >
-  <a href="https://www.codewars.com/users/Priyeshchikhaliya"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="leetcode" height=150/></a>
+  <a href="https://leetcode.com/ChikhaliyaYash/"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="leetcode" height=150 width=200/></a>
 </p>
 <p align="center" >
-  <a href="https://www.codewars.com/users/ChikhaliyaYash"><img src="https://miro.medium.com/max/880/1*0pLbHKAulWnsx4U2MQyn2w.png" alt="leetcode" height=150/></a>
+  <a href="https://www.codewars.com/users/ChikhaliyaYash"><img src="https://miro.medium.com/max/880/1*0pLbHKAulWnsx4U2MQyn2w.png" alt="codewars" height=150/></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
