@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Yash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering;Problem+Solving;DSA%20;Codewars%20|%20Codewars;Always%20learning%20new%20things&size=30&color=5FF729&center=true&width=500&height=50"></a> 
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering;Problem+Solving;DSA%20;Leetcode%20|%20Codewars;Always%20ready%20to%20go%20for%20new%20new%20things..&size=30&color=5FF729&center=true&width=500&height=50"></a> 
 	
 	
 </p>
@@ -17,7 +17,7 @@
 - :school: I am a `Computer Engineering Student`, At CHARUSAT University.  
 - :technologist: I love  `Coding`
 - :computer: I am a competitive programmer mainly at `Leetcode` and sometimes at `Codewars`
-- :nerd_face: Always `Always ready to go for new tech..`
+- :nerd_face: `Always ready to go for new tech..`
 <br></br>
 ##  Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChikhaliyaYash&show_icons=true&theme=vuw&hide=prs,contribs)
