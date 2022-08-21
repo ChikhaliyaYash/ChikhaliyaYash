@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Yash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering;Problem+Solving;DSA%20;Leetcode%20|%20Codewars;Always%20ready%20to%20go%20for%20new%20new%20things..&size=30&color=3FA796&center=true&width=600&height=50"></a> 
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering;Problem+Solving;DSA%20;Leetcode%20|%20Codewars;Always%20ready%20to%20go%20for%20new%20things..&size=30&color=3FA796&center=true&width=600&height=50"></a> 
 	
 	
 </p>
