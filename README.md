@@ -41,10 +41,10 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-	<a href="mailto:ppriyesh61@gmail.com@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Priyeshchikhaliya"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/qr/7ZBX5UZVBNURM1"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/priyesh-chikhaliya-a11753151"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="mailto:yp75445@gmail.com@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/ChikhaliyaYash"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/qr/3DI5EKKCWNQVO1"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/yash-chikhaliya-2674b7204/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </p>
 
@@ -94,10 +94,7 @@
   &emsp;
     <a href="https://stackoverflow.com/users/11805091/priyesh-patel"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>   
    &emsp;
-    <a href="https://www.json.org/json-en.html"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a> 
-  &emsp;
-    <a href="https://playwright.dev/"><img alt="playwright" src="https://img.shields.io/badge/Playwright-v0.2.6-green?style=plastic&logo=appveyor"></a>
-  &emsp;
+   
 
   
 
@@ -118,9 +115,9 @@
  
 <p align="center">
   &emsp;
-    <a href="https://www.codewars.com/users/Priyeshchikhaliya"><img alt = "Codewars" src="https://img.shields.io/badge/Codewars-5%20KYU-orange?style=plastic&logo=appveyor" /></a>
+    <a href="https://www.codewars.com/users/ChikhaliyaYash"><img alt = "Codewars" src="https://img.shields.io/badge/Codewars-5%20KYU-orange?style=plastic&logo=appveyor" /></a>
 &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+    <a href="https://leetcode.com/ChikhaliyaYash/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
 <!--   &emsp;
     <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a> -->
 </p>
@@ -140,13 +137,13 @@
 
 ## Recent Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyeshchikhaliya&hide=jupyter%20notebook&hide_title=true)](https://github.com/Priyeshchikhaliya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChikhaliyaYash&hide=jupyter%20notebook&hide_title=true)](https://github.com/ChikhaliyaYash/github-readme-stats)
 
 
 ## All Languages So Far
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyeshchikhaliya&hide_title=true)](https://github.com/Priyeshchikhaliya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChikhaliyaYash&hide_title=true)](https://github.com/ChikhaliyaYash/github-readme-stats)
 <br></br>
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Priyeshchikhaliya"><img alt="Priyesh Chikhaliya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Priyeshchikhaliya&custom_title=Priyesh%20Chikhaliya's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/ChikhaliyaYash"><img alt="Priyesh Chikhaliya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ChikhaliyaYash&custom_title=Yash%20Chikhaliya's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
