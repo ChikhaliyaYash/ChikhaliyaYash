@@ -112,7 +112,7 @@
  
 <p align="center">
   &emsp;
-    <a href="https://www.codewars.com/users/ChikhaliyaYash"><img alt = "Codewars" src="https://img.shields.io/badge/Codewars?style=plastic&logo=appveyor" /></a>
+    <a href="https://www.codewars.com/users/ChikhaliyaYash"><img alt = "Codewars" src="https://img.shields.io/badge/Codewars-5%20KYU?style=plastic&logo=appveyor" /></a>
 &emsp;
     <a href="https://leetcode.com/ChikhaliyaYash/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
 <!--   &emsp;
