@@ -1,4 +1,4 @@
-<h1 align="center">Hi , Myself Priyesh Chikhaliya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello, I am Yash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer;Problem+Solving;DS%20|%20Algorithms%20|%20OOPS%20;Specialist%20on%20Codewars;5%20Kyu%20on%20Codewars;Always%20learning%20new%20things&size=30&color=5FF729&center=true&width=500&height=50"></a> 
@@ -10,33 +10,34 @@
 
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Priyeshchikhaliya&label=Profile%20views&color=0e75b6&style=plastic" alt="Priyeshchikhaliya" /> 
+	<img src="https://komarev.com/ghpvc/?username=ChikhaliyaYash&label=Profile%20views&color=0e75b6&style=plastic" alt="ChikhaliyaYash" /> 
 <!-- 	<a href = "https://commits.top/india.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Priyeshchikhaliya" target="_blank"/> 
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="ChikhaliyaYash" target="_blank"/> 
 	</a> -->
 </p>
 
 ## :sassy_man:  About me
-- :school: I am a `Software Engineer`, Currently working at Drevol Software LLP
-- :technologist: I love  `Problem Solving`
-- :computer: I am a competitive programmer mainly at `Codewars`
-- :thinking: This is [MY RESUME](https://drive.google.com/file/d/1cgTljqUtJEEKqqyR5ZJSK6B-3iyxVc8C/view?usp=sharing).
-- :nerd_face: Always `Eager to learn new things`
+- :school: I am a `Computer Engineering Student`, At CHARUSAT University.  
+- :technologist: I love  `Coding`
+- :computer: I am a competitive programmer mainly at `Leetcode` and sometimes at `Codewars`
+- :nerd_face: Always `Always ready to go for new tech..`
 <br></br>
 ##  Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyeshchikhaliya&show_icons=true&theme=vuw&hide=prs,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChikhaliyaYash&show_icons=true&theme=vuw&hide=prs,contribs)
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyeshchikhaliya&theme=algolia" alt="Priyeshchikhaliya" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ChikhaliyaYash&theme=algolia" alt="ChikhaliyaYash" /></p>
 <br>
 
 
 ## 👀 My Competitive Programming Profiles
 
 <p align="center" >
-  <a href="https://www.codewars.com/users/Priyeshchikhaliya"><img src="https://miro.medium.com/max/880/1*0pLbHKAulWnsx4U2MQyn2w.png" alt="Codewars" height=150/></a>
+  <a href="https://www.codewars.com/users/Priyeshchikhaliya"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="leetcode" height=150/></a>
 </p>
-
+<p align="center" >
+  <a href="https://www.codewars.com/users/ChikhaliyaYash"><img src="https://miro.medium.com/max/880/1*0pLbHKAulWnsx4U2MQyn2w.png" alt="leetcode" height=150/></a>
+</p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
